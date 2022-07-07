@@ -26,3 +26,6 @@ I graduated Ural State Law University as a law bachelor.
 
 **HTML Basics**
 ![Html Basics course.png](https://github.com/Emilyfreulein/rss-school/blob/gh-pages/Html%20Basics%20course.png)
+
+**CSS Basics**
+![CSS Basics](https://github.com/Emilyfreulein/rss-school/blob/gh-pages/css%20basics.png)
