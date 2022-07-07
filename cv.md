@@ -10,9 +10,9 @@ I worked in Sberbank one of the largest bank in Russia as a telemarketing specia
 I’m a patient person and spend much time to solve a technical problem if it’s needed. I’m a curious so I love learning something new. I learn Arabic language in my free time. 
 
 ## 3.Skills
-Git
-HTML Basics
-CSS Basics
+* Git
+* HTML Basics
+* CSS Basics
 
 ## 4.Code examples
 console.log('Hello, World!');
