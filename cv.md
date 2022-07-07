@@ -15,7 +15,7 @@ I’m a patient person and spend much time to solve a technical problem if it’
 * CSS Basics
 
 ## 4.Code examples
-console.log('Hello, World!');
+'console.log('Hello, World!');'
 
 ## 5.My expierence
 I don’t have an experience in IT nowadays. Nevertheless I would like to get it 
