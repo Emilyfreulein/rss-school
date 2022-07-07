@@ -31,5 +31,8 @@ I graduated Ural State Law University as a law bachelor.
 ![CSS Basics](https://github.com/Emilyfreulein/rss-school/blob/gh-pages/css%20basics.png)
 
 ## 7. Languages
-English level is B1. I had a language practice in my trip to England for 4 weeks. I had English lessons in a school, in addition I lived in a host native English speaking family. In another case I helped my foreign friend as an interpreter in communication to Russian government and translating documents.
+English level is B1. 
+Arabic level is Beginner (A1).
+I had a language practice in my trip to England for 4 weeks. I had English lessons in a school, in addition I lived in a host native English speaking family. In another case I helped my foreign friend as an interpreter in communication to Russian government and translating documents.
 ![Intermediate](https://github.com/Emilyfreulein/rss-school/blob/gh-pages/Intermediate.png)
+
