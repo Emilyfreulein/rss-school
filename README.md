@@ -1,2 +1,2 @@
 # rss-school
-https://emilyfreulein.github.io/rsschool-cv/cv
+https://github.com/Emilyfreulein/rss-school/blob/gh-pages/cv.md
