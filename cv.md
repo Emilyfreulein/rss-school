@@ -22,4 +22,4 @@ taking different tasks.
 
 ## 6.My education and courses
 I graduated Ural State Law University as a law bachelor.
-![HTML Basics](Html Basics course.png)
+![HTML Basics](![Html Basics course.png](https://github.com/Emilyfreulein/rss-school/blob/gh-pages/Html%20Basics%20course.png))
