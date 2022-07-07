@@ -4,6 +4,7 @@
 * **E-mail:** metal_girl_08@mail.ru
 * [LinkedIn](https://www.linkedin.com/in/natalie-alshukri-653a94235/)
 * [GitHub](https://github.com/Emilyfreulein)
+* (My own blog in Telegram)[https://t.me/gummamaprog]
 
 ## 2.About Myself
 I worked in Sberbank one of the largest bank in Russia as a telemarketing specialist. And I got the best sales in March 2022. I have a dream and goal to change my profession as a frontend developer and reach my goal step-by-step. I don’t have an experience in IT and I want to gain it during creating my own projects. 
