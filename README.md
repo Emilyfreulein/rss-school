@@ -1,2 +1,2 @@
 # rss-school
-https://EMILYFREULEIN.github.io/rsschool-cv/cv
+https://emilyfreulein.github.io/rsschool-cv/cv
