@@ -1,28 +1,49 @@
 
 .menu {
-    background: linear-gradient(to right, rgb(245, 110, 225) , rgb(135, 135, 134));
+    background: linear-gradient(to right, rgb(245, 110, 225) , rgb(245, 245, 24));
     margin: 0;
     padding-top: 3px;
     padding-bottom: 50px;
     text-align: right;
-    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
-    font-size: 18px;
+    font-family: bold, Arial, Helvetica, sans-serif, serif;
+    font-size: 20px;
+    
 }
 
 .link {
     padding-right: 25px;
     padding-left: 10px;
+    color: rgb(39, 10, 10);
+    text-decoration: none;
+}
+
+.link:visited {
+    color: rgb(52, 144, 180);
+}
+
+.link:hover {
+    color: rgb(218, 15, 15);
+    text-shadow: 0 2px 5px rgba(121, 20, 20, 0.5);
 }
 
 .title {
     margin: 5%;
-    padding-left: 25%;
+    margin-left: 380px;
     text-align: left;
+    font-family: bold, Arial, Helvetica, sans-serif, serif;
+    color: rgb(70, 10, 89);
+    font-size: 36;
+}
+
+.underTitle {
+    margin-left: 380px;
+    text-align: left;
+    font-family: bold, Arial, Helvetica, sans-serif, serif;
     color: rgb(70, 10, 89);
 }
 
 img {
-    border-radius: 70%;
+    border-radius: 50%;
     float: left;
     margin-top: -150px;
     margin-left: 150px;
