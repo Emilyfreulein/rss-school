@@ -1,9 +1,9 @@
 
 .menu {
-    background-color: black;
+    background: linear-gradient(to right, rgb(245, 110, 225) , rgb(135, 135, 134));
     margin: 0;
     padding-top: 3px;
-    position:relative;
+    padding-bottom: 50px;
     text-align: right;
     font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     font-size: 18px;
@@ -16,7 +16,14 @@
 
 .title {
     margin: 5%;
-    position:relative;
+    padding-left: 25%;
     text-align: left;
-    color: aliceblue;
+    color: rgb(70, 10, 89);
+}
+
+img {
+    border-radius: 70%;
+    float: left;
+    margin-top: -150px;
+    margin-left: 150px;
 }
