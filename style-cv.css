@@ -34,7 +34,6 @@
     color: rgb(70, 10, 89);
     font-size: 36;
 }
-
 .underTitle {
     margin-left: 380px;
     text-align: left;
@@ -47,4 +46,24 @@ img {
     float: left;
     margin-top: -150px;
     margin-left: 150px;
+}
+
+.githubIcon {
+    display: flex;
+    justify-content: left;
+    text-align: left;
+   
+    
+
+}
+
+.logoRsschool {
+    display: flex;
+  justify-content: right;
+  text-align: right;
+   
+    
+}
+.footer {
+    text-align: center;
 }
