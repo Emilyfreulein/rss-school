@@ -49,21 +49,24 @@ img {
 }
 
 .githubIcon {
-    display: flex;
-    justify-content: left;
-    text-align: left;
-   
+    position: relative;
+    top: 140px;
+    left: 140px;
+    display: inline-block;
     
-
+   
 }
 
 .logoRsschool {
-    display: flex;
-  justify-content: right;
-  text-align: right;
+    position: relative;
+    text-align: right;
+    top: 140px;
+    right: 140px;
+    display: inline-block;
    
     
 }
 .footer {
+    position: relative;
     text-align: center;
 }
