@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;700&display=swap');
 
 .menu {
     background: linear-gradient(to right, rgb(245, 110, 225) , rgb(245, 245, 24));
@@ -5,7 +6,7 @@
     padding-top: 3px;
     padding-bottom: 50px;
     text-align: right;
-    font-family: bold, Arial, Helvetica, sans-serif, serif;
+    font-family: Roboto, Arial, sans-serif;
     font-size: 20px;
     
 }
@@ -18,7 +19,7 @@
 }
 
 .link:visited {
-    color: rgb(52, 144, 180);
+    color: rgb(129, 129, 130);
 }
 
 .link:hover {
@@ -30,7 +31,7 @@
     margin: 5%;
     margin-left: 380px;
     text-align: left;
-    font-family: bold, Arial, Helvetica, sans-serif, serif;
+    font-family: bold, Roboto, sans-serif;
     color: rgb(70, 10, 89);
     font-size: 36;
 }
@@ -46,6 +47,15 @@ img {
     float: left;
     margin-top: -150px;
     margin-left: 150px;
+}
+
+section {
+    font-family: Roboto, Arial, sans-serif;
+    font-size: 16px;
+}
+h3 {
+    margin: 15px;
+    background-color: rgb(245, 110, 225);
 }
 
 .githubIcon {
