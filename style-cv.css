@@ -8,6 +8,7 @@
     text-align: right;
     font-family: Roboto, Arial, sans-serif;
     font-size: 20px;
+    max-width: 1250px;
     
 }
 
@@ -34,6 +35,7 @@
     font-family: bold, Roboto, sans-serif;
     color: rgb(70, 10, 89);
     font-size: 36;
+    
 }
 .underTitle {
     margin-left: 380px;
@@ -49,34 +51,45 @@ img {
     margin-left: 150px;
 }
 
+
+body {
+    max-width: 1250px;
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 16px;
+    padding-right: 16px;
+}
+
 section {
     font-family: Roboto, Arial, sans-serif;
     font-size: 16px;
+    margin-left: auto;
+    margin-right: auto;
+    
 }
 h3 {
-    margin: 15px;
     background-color: rgb(245, 110, 225);
+    
 }
 
+
 .githubIcon {
-    position: relative;
-    top: 140px;
-    left: 140px;
-    display: inline-block;
-    
-   
+    display: block; 
+    text-align: center;
+    font-family: bold, Roboto, sans-serif;
+    text-decoration: none;
 }
 
 .logoRsschool {
-    position: relative;
-    text-align: right;
-    top: 140px;
-    right: 140px;
-    display: inline-block;
-   
+    display: block; 
+    text-align: center;
+    font-family: bold, Roboto, sans-serif;
+    text-decoration: none;
+    
     
 }
 .footer {
-    position: relative;
+    padding: 0px;
     text-align: center;
+    font-family: bold, Roboto, sans-serif;
 }
